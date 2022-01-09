@@ -1,0 +1,5 @@
+• 'Onaylıyorum' Fonksiyonu:
+- Kullanıcının güç seçenekleri fonksiyonlarından birini onaylamak için önceden tanımlanmış komutlardan birini veya kendisinin bu fonksiyon için tanımlamış olduğu komutu söylemesinin ardından sanal asistan onay gerektiren güç seçenekleri komutunun onaylandığını teyit ederek çalışmasına devam etmektedir.
+
+• 'Onaylamıyorum' Fonksiyonu:
+- Kullanıcının güç seçenekleri fonksiyonlarından birini onaylamamak için önceden tanımlanmış komutlardan birini veya kendisinin bu fonksiyon için tanımlamış olduğu komutu söylemesinin ardından sanal asistan onay gerektiren güç seçenekleri komutunun onaylanmadığını teyit ederek çalışmasına devam etmektedir.

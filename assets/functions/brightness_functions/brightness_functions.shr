@@ -1,0 +1,26 @@
+• 'Ekran Parlaklığı Seviyesini 100 Yap' Fonksiyonu:
+- Kullanıcının ekran parlaklığı seviyesini %100 yapmak için önceden tanımlanmış komutlardan birini veya kendisinin bu fonksiyon için tanımlamış olduğu komutu söylemesinin ardından sanal asistan ekran parlaklığını %100 seviyesine getirmektedir.
+- Komut verildiğinde ekran parlaklığı %100 seviyesinde ise sanal asistan ekran parlaklığının zaten %100 seviyesinde olduğuna dair bir bildirim penceresi göstermektedir.
+- Bu fonksiyon yalnızca 'Dizüstü Sürüm' için tasarlanmıştır.
+
+• 'Ekran Parlaklığı Seviyesini 50 Yap' Fonksiyonu:
+- Kullanıcının ekran parlaklığı seviyesini %50 yapmak için önceden tanımlanmış komutlardan birini veya kendisinin bu fonksiyon için tanımlamış olduğu komutu söylemesinin ardından sanal asistan ekran parlaklığını %50 seviyesine getirmektedir.
+- Komut verildiğinde ekran parlaklığı %50 seviyesinde ise sanal asistan ekran parlaklığının zaten %50 seviyesinde olduğuna dair bir bildirim penceresi göstermektedir.
+- Bu fonksiyon yalnızca 'Dizüstü Sürüm' için tasarlanmıştır.
+
+• 'Ekran Parlaklığı Seviyesini 0 Yap' Fonksiyonu:
+- Kullanıcının ekran parlaklığı seviyesini %0 yapmak için önceden tanımlanmış komutlardan birini veya kendisinin bu fonksiyon için tanımlamış olduğu komutu söylemesinin ardından sanal asistan ekran parlaklığını %0 seviyesine getirmektedir.
+- Komut verildiğinde ekran parlaklığı %0 seviyesinde ise sanal asistan ekran parlaklığının zaten %0 seviyesinde olduğuna dair bir bildirim penceresi göstermektedir.
+- Bu fonksiyon yalnızca 'Dizüstü Sürüm' için tasarlanmıştır.
+
+• 'Ekran Parlaklığı Seviyesini Arttır' Fonksiyonu:
+- Kullanıcının ekran parlaklığı seviyesini artırmak için önceden tanımlanmış komutlardan birini veya kendisinin bu fonksiyon için tanımlamış olduğu komutu söylemesinin ardından sanal asistan ekran parlaklığını mevcut seviyeden %25 artırmaktadır.
+- Komut verildiğinde ekran parlaklığı %100 seviyesinde ise sanal asistan ekran parlaklığının zaten %100 seviyesinde olduğuna dair bir bildirim penceresi göstermektedir.
+- Komut verildiğinde ekran parlaklığı %75 seviyesinin üzerinde ise ekran parlaklığının %100 seviyesine getirilmesi için gereken artış miktarı hesaplanarak sonuç değeri seviyesinde parlaklık artışı uygulanmaktadır.
+- Bu fonksiyon yalnızca 'Dizüstü Sürüm' için tasarlanmıştır.
+
+• 'Ekran Parlaklığı Seviyesini Azalt' Fonksiyonu:
+- Kullanıcının ekran parlaklığı seviyesini azaltmak için önceden tanımlanmış komutlardan birini veya kendisinin bu fonksiyon için tanımlamış olduğu komutu söylemesinin ardından sanal asistan ekran parlaklığını mevcut seviyeden %25 azaltmaktadır.
+- Komut verildiğinde ekran parlaklığı %0 seviyesinde ise sanal asistan ekran parlaklığının zaten %0 seviyesinde olduğuna dair bir bildirim penceresi göstermektedir.
+- Komut verildiğinde ekran parlaklığı %25 seviyesinin altında ise ekran parlaklığının %0 seviyesine getirilmesi için gereken azalma miktarı hesaplanarak sonuç değeri seviyesinde parlaklık azalışı uygulanmaktadır.
+- Bu fonksiyon yalnızca 'Dizüstü Sürüm' için tasarlanmıştır.

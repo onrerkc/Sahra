@@ -1,0 +1,24 @@
+• 'Kendini Kapat' Fonksiyonu:
+- Kullanıcının sanal asistanın kendini kapatması için önceden tanımlanmış komutlardan birini veya kendisinin bu fonksiyon için tanımlamış olduğu komutu söylemesinin ardından sanal asistan kullanıcıdan kendini kapat komutu için onay beklemektedir.
+- Kullanıcı kendini kapat komutunu onaylarsa sanal asistan kendini kapatmaktadır.
+- Kullanıcı kendini kapat komutunu onaylamazsa sanal asistan kendini kapat komutunu iptal ederek çalışmasına devam etmektedir.
+
+• 'Bilgisayarı Kapat' Fonksiyonu:
+- Kullanıcının bilgisayarı kapatmak için önceden tanımlanmış komutlardan birini veya kendisinin bu fonksiyon için tanımlamış olduğu komutu söylemesinin ardından sanal asistan kullanıcıdan bilgisayarı kapat komutu için onay beklemektedir.
+- Kullanıcı bilgisayarı kapat komutunu onaylarsa sanal asistan bilgisayarı kapatmaktadır.
+- Kullanıcı bilgisayarı kapat komutunu onaylamazsa sanal asistan bilgisayarı kapat komutunu iptal ederek çalışmasına devam etmektedir.
+
+• 'Bilgisayarı Yeniden Başlat' Fonksiyonu:
+- Kullanıcının bilgisayarı yeniden başlatmak için önceden tanımlanmış komutlardan birini veya kendisinin bu fonksiyon için tanımlamış olduğu komutu söylemesinin ardından sanal asistan kullanıcıdan bilgisayarı yeniden başlat komutu için onay beklemektedir.
+- Kullanıcı bilgisayarı yeniden başlat komutunu onaylarsa sanal asistan bilgisayarı yeniden başlatmaktadır.
+- Kullanıcı bilgisayarı yeniden başlat komutunu onaylamazsa sanal asistan bilgisayarı yeniden başlat komutunu iptal ederek çalışmasına devam etmektedir.
+
+• 'Bilgisayarı Uyku Moduna Al' Fonksiyonu:
+- Kullanıcının bilgisayarı uyku moduna almak için önceden tanımlanmış komutlardan birini veya kendisinin bu fonksiyon için tanımlamış olduğu komutu söylemesinin ardından sanal asistan kullanıcıdan bilgisayarı uyku moduna almak için onay beklemektedir.
+- Kullanıcı bilgisayarı uyku moduna al komutunu onaylarsa sanal asistan bilgisayarı uyku moduna almaktadır.
+- Kullanıcı bilgisayarı uyku moduna al komutunu onaylamazsa sanal asistan bilgisayarı uyku moduna al komutunu iptal ederek çalışmasına devam etmektedir.
+
+• 'Bilgisayarı Kilitle' Fonksiyonu:
+- Kullanıcının bilgisayarın kilitlemek için önceden tanımlanmış komutlardan birini veya kendisinin bu fonksiyon için tanımlamış olduğu komutu söylemesinin ardından sanal asistan kullanıcıdan bilgisayarı kilitle komutu için onay beklemektedir.
+- Kullanıcı bilgisayarı kilitle komutunu onaylarsa sanal asistan bilgisayarı kilitlemektedir.
+- Kullanıcı bilgisayarı kilitle komutunu onaylamazsa sanal asistan bilgisayarı kilitle komutunu iptal ederek çalışmasına devam etmektedir.

@@ -1,0 +1,5 @@
+• 'Ekranın Fotoğrafını Çek' Fonksiyonu:
+- Kullanıcının ekranın fotoğrafını çekmek için önceden tanımlanmış komutlardan birini veya kendisinin bu fonksiyon için tanımlamış olduğu komutu söylemesinin ardından sanal asistan 5 saniye beklemekte, süre dolduktan sonra mevcut ekranın fotoğrafını çekmekte ve ardından çekmiş olduğu fotoğrafı açarak kullanıcıya göstermektedir.
+
+• 'Ekran Fotoğrafları Klasörünü Aç' Fonksiyonu:
+- Kullanıcının ekran fotoğraflarının kaydedildiği klasörü açmak için önceden tanımlanmış komutlardan birini veya kendisinin bu fonksiyon için tanımlamış olduğu komutu söylemesinin ardından sanal asistan ekran fotoğraflarının kaydedildiği klasörü açarak kullanıcıya göstermektedir.

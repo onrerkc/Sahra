@@ -1,0 +1,28 @@
+• Eklenenler:
+- 'Hakkında' bölümüne 'Sürüm' bilgisi eklendi.
+- 'Hakkında' bölümüne içerik tanımlayıcı başlıklar eklendi.
+- 'Sürüm Notları' bölümüne 'Versiyon' ve 'Sürüm' bilgileri eklendi.
+- 'Uygulama Kullanımı Verilerini Görüntüle' bölümüne görüntülenen dosya bilgisi eklendi.
+- 'Komutları Düzenle' ve 'Uygulama Kullanımı İzleyici' alt pencerelerine içerik tanımlayıcı başlıklar eklendi.
+- Önceki versiyonda kaldırılan ikonlar, geliştirilmiş olarak tüm uygulamaya tekrardan eklendi.
+
+• Kaldırılanlar:
+- 'Hakkında' bölümünden 'Tasarım' bilgisi kaldırıldı.
+- 'Uygulama Başlık Filtrelerini Düzenle' bölümü kaldırıldı.
+- 'Uygulama Kullanımı Verileri Klasörünü Aç' bölümü kaldırıldı.
+- 'Medya Fonksiyonları' kaldırıldı.
+- Kısayol tuşu ile komut verme özelliği kaldırıldı.
+- Bilgisayar kilitli iken komut verme özelliği kaldırıldı.
+
+• Çözülen Sorunlar:
+- 'Komutları Düzenle' bölümünde imlecin başta olması sorunu düzeltildi.
+
+• İyileştirmeler:
+- 'Ekran Alıntısı' kavramı 'Ekran Fotoğrafı' olarak değşitirildi. Komutlar ve arayüz bu değişikliğe göre düzenlendi.
+- 'Komutları Düzenle' bölümünde 'Kaydet' ve 'İptal Et' butonları komutlarda değişiklik yapıldığında aktifleşecek şekilde düzenlendi.
+- 'Sürüm Notları' bölümü 'Değişiklikler Listesi' olarak değiştirildi.
+- 'Çıkış Yap' bölümü onay gerektirecek şekilde düzenlendi.
+- Artık uygulama kullanımı verileri ve ekran fotoğrafları 'Belgeler' klasöründe değil, Sahra - Sanal Asistan ana dizininde depolanacak.
+- Artık her pencerede sağ üstte bulunan soru işareti butonuna tıklanarak sayfa içeriğinin ne işe yaradığı görüntülenebiliir.
+- Bildirimlerin İşlem Merkezi'nde kalması sorunu düzeltildi.
+- Pencere boyutları genişletildi.

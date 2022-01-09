@@ -1,0 +1,29 @@
+• 'Ses Akışını Aç' Fonksiyonu:
+- Kullanıcının sesi açmak için önceden tanımlanmış komutlardan birini veya kendisinin bu fonksiyon için tanımlamış olduğu komutu söylemesinin ardından sanal asistan ses akışını açmaktadır.
+- Komut verildiğinde ses akışı açıksa sanal asistan ses akışının zaten açık olduğuna dair bir bildirim penceresi göstermektedir.
+
+• 'Ses Akışını Kapat' Fonksiyonu:
+- Kullanıcının sesi kapatmak için önceden tanımlanmış komutlardan birini veya kendisinin bu fonksiyon için tanımlamış olduğu komutu söylemesinin ardından sanal asistan ses akışını kapatmaktadır.
+- Komut verildiğinde ses akışı kapalıysa sanal asistan ses akışının zaten kapalı olduğuna dair bir bildirim penceresi göstermektedir.
+
+• 'Ses Seviyesini 100 Yap' Fonksiyonu:
+- Kullanıcının ses seviyesini %100 yapmak için önceden tanımlanmış komutlardan birini veya kendisinin bu fonksiyon için tanımlamış olduğu komutu söylemesinin ardından sanal asistan sesi %100 seviyesine getirmektedir.
+- Komut verildiğinde ses %100 seviyesinde ise sanal asistan sesin zaten %100 seviyesinde olduğuna dair bir bildirim penceresi göstermektedir.
+
+• 'Ses Seviyesini 50 Yap' Fonksiyonu:
+- Kullanıcının ses seviyesini %50 yapmak için önceden tanımlanmış komutlardan birini veya kendisinin bu fonksiyon için tanımlamış olduğu komutu söylemesinin ardından sanal asistan sesi %50 seviyesine getirmektedir.
+- Komut verildiğinde ses %50 seviyesinde ise sanal asistan sesin zaten %50 seviyesinde olduğuna dair bir bildirim penceresi göstermektedir.
+
+• 'Ses Seviyesini 0 Yap' Fonksiyonu:
+- Kullanıcının ses seviyesini %0 için önceden tanımlanmış komutlardan birini veya kendisinin bu fonksiyon için tanımlamış olduğu komutu söylemesinin ardından sanal asistan sesi %0 seviyesine getirmektedir.
+- Komut verildiğinde ses %0 seviyesinde ise sanal asistan sesin zaten %0 seviyesinde olduğuna dair bir bildirim penceresi göstermektedir.
+
+• 'Ses Seviyesini Arttır' Fonksiyonu:
+- Kullanıcının sesi arttırmak için önceden tanımlanmış komutlardan birini veya kendisinin bu fonksiyon için tanımlamış olduğu komutu söylemesinin ardından sanal asistan sesi mevcut seviyeden %20 artırmaktadır.
+- Komut verildiğinde ses %100 seviyesinde ise sanal asistan sesin zaten %100 seviyesinde olduğuna dair bir bildirim penceresi göstermektedir.
+- Komut verildiğinde ses %80 seviyesinin üzerinde ise sesin %100 seviyesine getirilmesi için gereken artırma miktarı hesaplanarak sonuç değeri seviyesinde ses artışı uygulanmaktadır.
+
+• 'Ses Seviyesini Azalt' Fonksiyonu:
+- Kullanıcının sesi azaltmak için önceden tanımlanmış komutlardan birini veya kendisinin bu fonksiyon için tanımlamış olduğu komutu söylemesinin ardından sanal asistan sesi mevcut seviyeden %20 azaltmaktadır.
+- Komut verildiğinde ses %0 seviyesinde ise sanal asistan sesin zaten %0 seviyesinde olduğuna dair bir bildirim penceresi göstermektedir.
+- Komut verildiğinde ses %20 seviyesinin altında ise sesin %0 seviyesine getirilmesi için gereken azalma miktarı hesaplanarak sonuç değeri seviyesinde ses azalımı uygulanmaktadır.
